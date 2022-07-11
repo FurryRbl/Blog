@@ -25,14 +25,14 @@
 		Blog © 2022 by SharpIce is licensed under Attribution-NonCommercial 4.0 International. 
 		To view a copy of this license, 
 		visit http://creativecommons.org/licenses/by-nc/4.0/
-							运行本项目
-						apt install nodejs #deb
-						yun/dnf install nodejs #rpm
-						pacman /yay/paru -S nodejs npm #arch
-						brew install nodejs #mac
-						choco/scoop/winget install nodejs #windows
-						npm install hexo-cli -g
-						git clone --recursive https://github.com/FurryRbl/Blog.gi
-						cd Blog
-						npm install
-						hexo server
+						运行本项目
+					apt install nodejs #deb
+					yun/dnf install nodejs #rpm
+					pacman /yay/paru -S nodejs npm #arch
+					brew install nodejs #mac
+					choco/scoop/winget install nodejs #windows
+					npm install hexo-cli -g
+					git clone --recursive https://github.com/FurryRbl/Blog.gi
+					cd Blog
+					npm install
+					hexo server
