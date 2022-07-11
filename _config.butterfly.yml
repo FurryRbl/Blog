@@ -1,0 +1,84 @@
+highlight_theme: mac
+disable_top_img: true
+readmode: true
+medium_zoom: true
+avatar:
+  img: /favicon.ico
+
+copy:
+  enable: false
+
+menu:
+  首页: / || fas fa-home
+  存档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+error_404:
+  enable: true
+  subtitle: "你可能来错的地方"
+
+social:
+  fab fa-github: https://github.com/FurryRbl || Github
+  fas fa-envelope: mailto:VupRbl@163.com || Email
+  fa-brands fa-bilibili: https://space.bilibili.com/513364639 || BiliBili
+
+cover:
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
+
+post_meta:
+  page:
+    date_type: both
+    date_format: relative
+    categories: true
+    tags: true
+    label: true
+  post:
+    date_type: both
+    date_format: relative
+    categories: true
+    tags: true
+    label: true
+
+post_copyright:
+  enable: true
+  decode: false
+  author_href:
+  license: CC BY-NC 4.0
+  license_url: http://creativecommons.org/licenses/by-nc/4.0/
+
+footer:
+  owner:
+    enable: true
+    since: 2022
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: false
+
+aside:
+  card_tags color: true
+
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+runtimeshow:
+  enable: true
+  publish_date: 2022/7/11/ 16:00:00
+
+local_search:
+  enable: true
+  preload: false
+
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
